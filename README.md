@@ -16,6 +16,3 @@ GNU bash, version 4.4.19(1)-release (x86_64-pc-linux-gnu)
 bedtools v2.26.0
 Python 3.7.4
 
-# Contact
-Shohei KOJIMA: shohei.kojima _at_ riken.jp;
-Nicholas F. PARRISH: nicholas.parrish _at_ riken.jp
