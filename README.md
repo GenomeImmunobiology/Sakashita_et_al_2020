@@ -1,4 +1,4 @@
-# Here are supplementary files of Aki et al, 2020, NSMB
+# Sakashita _et al._,  2020, NSMB manuscript scripts
 
 # Files
 ## prep_non_overlapping_TE_refgene_annotation.sh
