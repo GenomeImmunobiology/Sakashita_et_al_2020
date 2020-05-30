@@ -1,8 +1,11 @@
 # Sakashita _et al._,  2020, NSMB manuscript scripts
 
+# About
+This repository contains scripts and codes to generate the non-overlapping TE and reference gene annotation file of mouse genome in Sakashita _et al._,  2020, NSMB manuscript.
+
 # Files
 ## prep_non_overlapping_TE_refgene_annotation.sh
-This file is used to generate a non-overlapping TE and reference gene annotation file of the mouse reference genome GRCm38.
+This file is used to generate the non-overlapping TE and reference gene annotation file of the mouse reference genome GRCm38.
 
 ## remove_low_SW_score.py
 This file was used with in 'prep_non_overlapping_TE_refgene_annotation.sh'
