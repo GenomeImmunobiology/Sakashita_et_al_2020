@@ -11,8 +11,8 @@ This file was used with in 'prep_non_overlapping_TE_refgene_annotation.sh'
 This file was used with in 'prep_non_overlapping_TE_refgene_annotation.sh'
 
 # Environment
-Ubuntu VERSION="18.04.2 LTS (Bionic Beaver)"
-GNU bash, version 4.4.19(1)-release (x86_64-pc-linux-gnu)
-bedtools v2.26.0
-Python 3.7.4
+- Ubuntu VERSION="18.04.2 LTS (Bionic Beaver)"
+- GNU bash, version 4.4.19(1)-release (x86_64-pc-linux-gnu)
+- bedtools v2.26.0
+- Python 3.7.4
 
