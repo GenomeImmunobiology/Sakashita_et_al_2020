@@ -17,5 +17,5 @@ bedtools v2.26.0
 Python 3.7.4
 
 # Contact
-Shohei KOJIMA: shohei.kojima _at_ riken.jp
+Shohei KOJIMA: shohei.kojima _at_ riken.jp;
 Nicholas F. PARRISH: nicholas.parrish _at_ riken.jp
